@@ -1,5 +1,5 @@
 ---
-title: "Why-a-web-site-on-Power-BI-Dataflows?"
+title: "Why a web site on Power BI Dataflows?"
 date: 2023-03-16
 ---
 
